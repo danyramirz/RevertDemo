@@ -11,6 +11,7 @@ namespace ReertDemo
         static void Main(string[] args)
         {
             Console.WriteLine("First change");
+            Console.WriteLine("second change");
         }
     }
 }
